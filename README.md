@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm ASecondOne 
 
-<!--
-**ASecondOne/ASecondOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student and hobby engine developer.
 
-Here are some ideas to get you started:
+Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+NyraCraft — a Minecraft-like voxel engine written in Rust using wgpu
+
+---
+
+## Technologies I use
+
+- Rust
+- wgpu
+- WGSL
+- Git
+- Linux (Arch btw)
+
+---
+
+## Current focus
+
+- voxel engine development
+- GPU rendering
+- learning Vulkan in the future
+
+---
+
+## My main project
+
+🔗 https://github.com/ASecondOne/NyraCraft
+
+---
+
+## GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=ASecondOne&show_icons=true&theme=dark)
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASecondOne&theme=dark)
+
+---
+
+NyraCraft is actively being developed.
