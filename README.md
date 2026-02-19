@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ASecondOne/ASecondOne/main/banner.jpg" width="100%" />
 
-# Hi, I'm ANotherOne 
+# Hi, I'm ANotherOne!
 
 I'm an IT student and hobby engine developer.
 
