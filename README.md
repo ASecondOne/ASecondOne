@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ASecondOne&fontSize=50&fontAlignY=40&desc=Rust%20Voxel%20Developer&descAlignY=65&animation=fadeIn&backgroundImage=https://raw.githubusercontent.com/ASecondOne/ASecondOne/main/HD-wallpaper-steampunk-world-anime-girl-scenic-anime.jpg)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ASecondOne&fontSize=50&fontAlignY=40&desc=Rust%20Voxel%20Developer&descAlignY=65&animation=fadeIn&backgroundImage=https://raw.githubusercontent.com/ASecondOne/ASecondOne/main/banner.jpg)
 
 # Hi, I'm ASecondOne 
 
