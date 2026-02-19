@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ASecondOne&fontSize=50&fontAlignY=40&desc=Rust%20Voxel%20Developer&descAlignY=65&animation=fadeIn&backgroundImage=https://raw.githubusercontent.com/ASecondOne/ASecondOne/main/banner.jpg)
+<img src="https://raw.githubusercontent.com/ASecondOne/ASecondOne/main/banner.jpg" width="100%" />
 
-# Hi, I'm ASecondOne 
+# Hi, I'm ANotherOne 
 
 I'm an IT student and hobby engine developer.
 
@@ -16,10 +16,9 @@ Currently working on:
 
 | Level | Technologies |
 |------|-------------|
-| Main | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust) ![wgpu](https://img.shields.io/badge/wgpu-0096FF?style=for-the-badge) ![WGSL](https://img.shields.io/badge/WGSL-FF6F00?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) |
+| Main | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust) ![wgpu](https://img.shields.io/badge/wgpu-0096FF?style=for-the-badge) ![WGSL](https://img.shields.io/badge/WGSL-FF6F00?style=for-the-badge) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) |
 | Learning | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus) ![Vulkan](https://img.shields.io/badge/Vulkan-A41E22?style=for-the-badge&logo=vulkan) |
-| Experience | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript) ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php) |
-
+| Experience | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript) ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php) ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white) |
 
 ---
 
