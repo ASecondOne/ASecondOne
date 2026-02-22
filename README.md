@@ -35,13 +35,6 @@ Currently working on:
 
 🔗 https://github.com/ASecondOne/NyraCraft
 
----
-
-## GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=ASecondOne&show_icons=true&theme=dark)
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASecondOne&theme=dark)
 
 ---
 
