@@ -12,7 +12,7 @@ Currently working on:
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nyrana&fontSize=42&desc=My%20personal%20software%20ecosystem&descSize=18&descAlign=50&descAlignY=65)
 
---
+---
 
 ## Technology Stack
 
